@@ -2,21 +2,11 @@ import java.io.File
 
 fun main() {
     val puzzleLines = File("puzzleinput.txt").readLines()
-    val (oneCommonList, zeroCommonList) = puzzleLines.partition {it[0] == '1'}
 
-    val oxygenBits : String
-    val co2Bits : String
+    val oxygenBits = findX(puzzleLines, 0, true).toInt(2)
+    val co2Bits = findX(puzzleLines, 0, false).toInt(2)
 
-    if (zeroCommonList.size > oneCommonList.size) {
-        oxygenBits = findX(zeroCommonList, 1, true)
-        co2Bits = findX(oneCommonList, 1, false)
-    }
-    else {
-        oxygenBits = findX(oneCommonList, 1, true)
-        co2Bits = findX(zeroCommonList, 1, false)
-    }
-
-    print(oxygenBits.toInt(2) * co2Bits.toInt(2))
+    print(oxygenBits * co2Bits)
 }
 
 fun findX (listToSearch: List<String>, idx : Int, isOxygen: Boolean) : String {

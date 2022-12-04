@@ -5,12 +5,13 @@
 
 ## 2022
 
-**🌟 4/50 🌟**
+**🌟 6/50 🌟**
 
 | Day | Status | Language
 |---|---|---
 | [Day 1: Calorie Counting](2022/day1) | ⭐⭐ | Python
 | [Day 2: Rock Paper Scissors](2022/day2) | ⭐⭐ | Python
+| [Day 3: Rucksack Reorganization](2022/day3) | ⭐⭐ | Python
 
 ## 2021
 

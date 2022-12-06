@@ -5,7 +5,7 @@
 
 ## 2022
 
-**🌟 10/50 🌟**
+**🌟 12/50 🌟**
 
 | Day | Status | Language
 |---|---|---
@@ -14,6 +14,7 @@
 | [Day 3: Rucksack Reorganization](2022/day3) | ⭐⭐ | Python
 | [Day 4: Camp Cleanup](2022/day4) | ⭐⭐ | Python
 | [Day 5: Supply Stacks](2022/day5) | ⭐⭐ | Python
+| [Day 6: Tuning Trouble](2022/day6) | ⭐⭐ | Python
 
 ## 2021
 

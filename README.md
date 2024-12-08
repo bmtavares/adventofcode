@@ -4,8 +4,9 @@
 - [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
+- [2020](#2020)
 
-> **🌟 25/166 🌟**
+> **🌟 28/216 🌟**
 
 ## 2024
 
@@ -56,7 +57,7 @@
 
 ## 2022
 
-> **🌟 13/50 🌟**
+> **🌟 14/50 🌟**
 
 | Day | Status | Language
 |---|:---:|---
@@ -67,7 +68,7 @@
 | [Day 5: Supply Stacks](2022/day05) | ⭐⭐ | Python
 | [Day 6: Tuning Trouble](2022/day06) | ⭐⭐ | Python
 | [Day 7: No Space Left On Device](2022/day07) | |
-| [Day 8: Treetop Tree House](2022/day08) | ⭐ | ?
+| [Day 8: Treetop Tree House](2022/day08) | ⭐⭐ | Python
 | [Day 9: Rope Bridge](2022/day09) | |
 | [Day 10: Cathode-Ray Tube](2022/day10) | |
 | [Day 11: Monkey in the Middle](2022/day11) | |
@@ -117,3 +118,35 @@
 | [Day 23: Amphipod](2021/day23) | |
 | [Day 24: Arithmetic Logic Unit](2021/day23) | |
 | [Day 25: Sea Cucumber](2021/day25) | |
+
+## 2020
+
+> **🌟 2/50 🌟**
+
+| Day | Status | Language
+|---|:---:|---
+| [Day 1: Report Repair](2020/day01) | ⭐⭐ | Kotlin
+| [Day 2: Password Philosophy](2020/day02) |  |
+| [Day 3: Toboggan Trajectory](2020/day03) |  |
+| [Day 4: Passport Processing](2020/day04) |  |
+| [Day 5: Binary Boarding](2020/day05) |  |
+| [Day 6: Custom Customs](2020/day06) |  |
+| [Day 7: Handy Haversacks](2020/day07) | |
+| [Day 8: Handheld Halting](2020/day08) | |
+| [Day 9: Encoding Error](2020/day09) | |
+| [Day 10: Adapter Array](2020/day10) | |
+| [Day 11: Seating System](2020/day11) | |
+| [Day 12: Rain Risk](2020/day12) | |
+| [Day 13: Shuttle Search](2020/day13) | |
+| [Day 14: Docking Data](2020/day14) | |
+| [Day 15: Rambunctious Recitation](2020/day15) | |
+| [Day 16: Ticket Translation](2020/day16) | |
+| [Day 17: Conway Cubes](2020/day17) | |
+| [Day 18: Operation Order](2020/day18) | |
+| [Day 19: Monster Messages](2020/day19) | |
+| [Day 20: Jurassic Jigsaw](2020/day20) | |
+| [Day 21: Allergen Assessment](2020/day21) | |
+| [Day 22: Crab Combat](2020/day22) | |
+| [Day 23: Crab Cups](2020/day23) | |
+| [Day 24: Lobby Layout](2020/day23) | |
+| [Day 25: Combo Breaker](2020/day25) | |

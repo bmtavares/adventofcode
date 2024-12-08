@@ -5,7 +5,7 @@
 - [2022](#2022)
 - [2021](#2021)
 
-> **🌟 25/116 🌟**
+> **🌟 25/166 🌟**
 
 ## 2024
 
@@ -24,9 +24,35 @@
 
 ## 2023
 
+> **🌟 0/50 🌟**
 
 | Day | Status | Language
 |---|:---:|---
+| [Day 1: Trebuchet?!](2023/day01) | |
+| [Day 2: Cube Conundrum](2023/day02) | |
+| [Day 3: Gear Ratios](2023/day03) | |
+| [Day 4: Scratchcards](2023/day04) | |
+| [Day 5: If You Give A Seed A Fertilizer](2023/day05) | |
+| [Day 6: Wait For It](2023/day06) | |
+| [Day 7: Camel Cards](2023/day07) | |
+| [Day 8: Haunted Wasteland](2023/day08) | |
+| [Day 9: Mirage Maintenance](2023/day09) | |
+| [Day 10: Pipe Maze](2023/day10) | |
+| [Day 11: Cosmic Expansion](2023/day11) | |
+| [Day 12: Hot Springs](2023/day12) | |
+| [Day 13: Point of Incidence](2023/day13) | |
+| [Day 14: Parabolic Reflector Dish](2023/day14) | |
+| [Day 15: Lens Library](2023/day15) | |
+| [Day 16: The Floor Will Be Lava](2023/day16) | |
+| [Day 17: Clumsy Crucible](2023/day17) | |
+| [Day 18: Lavaduct Lagoon](2023/day18) | |
+| [Day 19: Aplenty](2023/day19) | |
+| [Day 20: Pulse Propagation](2023/day20) | |
+| [Day 21: Step Counter](2023/day21) | |
+| [Day 22: Sand Slabs](2023/day22) | |
+| [Day 23: A Long Walk](2023/day23) | |
+| [Day 24: Never Tell Me The Odds](2023/day24) | |
+| [Day 25: Snowverload](2023/day25) | |
 
 ## 2022
 

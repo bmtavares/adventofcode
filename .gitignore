@@ -1,5 +1,16 @@
+# Python
 __pycache__
 .pytest_cache
 __init__.py
 
+# VSCode/Codium local config folder
+.vscode
+
+# Kotlin/Java
+META-INF
+.idea
+*.class
+*.iml
+
+# Local tool secret
 .aoc_token

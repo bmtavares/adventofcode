@@ -14,3 +14,6 @@ META-INF
 
 # Local tool secret
 .aoc_token
+
+# Puzzle inputs
+puzzleinput.txt

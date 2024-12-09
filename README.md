@@ -6,16 +6,16 @@
 - [2021](#2021)
 - [2020](#2020)
 
-> **🌟 30/216 🌟**
+> **🌟 31/216 🌟**
 
 ## 2024
 
-> **🌟 2/16 🌟**
+> **🌟 3/16 🌟**
 
 | Day | Status | Language
 |---|:---:|---
 | [Day 1: Historian Hysteria](2024/day01) | ⭐⭐ | Kotlin
-| [Day 2: Red-Nosed Reports](2024/day02) | |
+| [Day 2: Red-Nosed Reports](2024/day02) | ⭐ | Kotlin
 | [Day 3: Mull It Over](2024/day03) | |
 | [Day 4: Ceres Search](2024/day04) | |
 | [Day 5: Print Queue](2024/day05) | |
